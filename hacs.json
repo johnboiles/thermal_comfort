@@ -1,0 +1,4 @@
+{
+  "name": "Thermal Comfort sensor for HA (absolute humidity, heat index, dew point, thermal perception, summer simmer index)",
+  "content_in_root": true
+}

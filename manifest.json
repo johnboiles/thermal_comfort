@@ -1,0 +1,10 @@
+{
+  "domain": "thermal_comfort",
+  "name": "Thermal Comfort",
+  "version": "2021.9.16",
+  "documentation": "https://github.com/lymanepp/thermal_comfort/blob/master/README.md",
+  "issue_tracker": "https://github.com/lymanepp/thermal_comfort/issues",
+  "dependencies": [],
+  "codeowners": ["@dolezsa","@johnboiles","@d3m3trius","@lymanepp"],
+  "requirements": []
+}
